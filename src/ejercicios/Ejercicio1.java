@@ -9,7 +9,7 @@ public class Ejercicio1 {
         **/
         int a = 10;
         int b = 20;
-        int suma = a+b;
-        System.out.println("La Suma de a + b es: " + suma);
+
+        System.out.println("La Suma de a + b es: " + (a+b));
     }
 }
