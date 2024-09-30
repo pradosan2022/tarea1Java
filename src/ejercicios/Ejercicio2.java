@@ -1,6 +1,6 @@
 package ejercicios;
 
-public class Ejercicios2 {
+public class Ejercicio2 {
     public static void main(String[] args){
         /*
         * Producto de dos números
