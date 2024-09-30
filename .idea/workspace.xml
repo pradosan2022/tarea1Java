@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se crea el ejercicio 2 para calcular el Producto de dos números">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicios2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicios2.java" afterDir="false" />
-    </list>
+    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se finaliza el ejercicio 2." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727706381360</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Se finaliza el ejercicio 2.">
+      <created>1727707515391</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727707515392</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +140,7 @@
     <MESSAGE value="Se crea estructura de proyecto y el primer ejercicio a modo de prueba para el uso de git con el IDE" />
     <MESSAGE value="Termine el ejercicio 1" />
     <MESSAGE value="Se crea el ejercicio 2 para calcular el Producto de dos números" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se crea el ejercicio 2 para calcular el Producto de dos números" />
+    <MESSAGE value="Se finaliza el ejercicio 2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Se finaliza el ejercicio 2." />
   </component>
 </project>
