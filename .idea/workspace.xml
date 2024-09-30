@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se finaliza el ejercicio 2." />
+    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se finaliza el ejercicio 2.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ejercicios2">
+  <component name="RunManager" selected="Application.Ejercicio2">
     <configuration name="Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio1" />
       <module name="Ejercicio1Repaso_Sandra_Prado" />
@@ -51,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicios2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicios2" />
+    <configuration name="Ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio2" />
       <module name="Ejercicio1Repaso_Sandra_Prado" />
       <extension name="coverage">
         <pattern>
@@ -66,7 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ejercicios2" />
+        <item itemvalue="Application.Ejercicio2" />
         <item itemvalue="Application.Ejercicio1" />
       </list>
     </recent_temporary>
@@ -122,7 +124,28 @@
       <option name="project" value="LOCAL" />
       <updated>1727707515392</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Se finaliza el ejercicio 2.">
+      <created>1727707954014</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727707954014</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Se finaliza el ejercicio 2.">
+      <created>1727708101866</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727708101866</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Se finaliza el ejercicio 2.">
+      <created>1727708219256</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727708219256</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
