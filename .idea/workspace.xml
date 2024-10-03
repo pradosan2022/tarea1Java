@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se finaliza el ejercicio 2.">
+    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se finaliza el ejercicio 3.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ejercicio2">
+  <component name="RunManager" selected="Application.Ejercicio3">
     <configuration name="Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio1" />
       <module name="Ejercicio1Repaso_Sandra_Prado" />
@@ -66,8 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio3" />
+      <module name="Ejercicio1Repaso_Sandra_Prado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio3" />
         <item itemvalue="Application.Ejercicio2" />
         <item itemvalue="Application.Ejercicio1" />
       </list>
@@ -145,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727708219256</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Comienzo del Ejercicio 3 para informar si un número es par o impar.">
+      <created>1727708399071</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727708399071</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +186,8 @@
     <MESSAGE value="Termine el ejercicio 1" />
     <MESSAGE value="Se crea el ejercicio 2 para calcular el Producto de dos números" />
     <MESSAGE value="Se finaliza el ejercicio 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Se finaliza el ejercicio 2." />
+    <MESSAGE value="Comienzo del Ejercicio 3 para informar si un número es par o impar." />
+    <MESSAGE value="Se finaliza el ejercicio 3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Se finaliza el ejercicio 3." />
   </component>
 </project>
