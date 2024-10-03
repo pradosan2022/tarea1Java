@@ -11,8 +11,8 @@ public class Ejercicio3 {
         int resto = a % 2;
         if(resto==0) {
             System.out.println("a es un número par y almacena: " + a);
-        }   else{
-                System.out.println("a es un número impar y almacena: "+a);
-            }
+        } else {
+            System.out.println("a es un número impar y almacena: "+a);
+        }
     }
 }
