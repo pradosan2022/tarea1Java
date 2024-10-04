@@ -10,11 +10,12 @@ public class Ejercicio9 {
          */
         int N = 50;
         int suma = 0;
-        int i;
+        int i=1;
 
-        for(i=1;i<=N;i++){
-            suma = suma + i;
-            i++;
+        while (i<=N){
+            suma = suma +i;
+            i = i+1;
         }
+        System.out.println("La suma de los primeros "+N+" números naturales es: "+suma);
     }
 }
