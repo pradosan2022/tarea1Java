@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se finaliza el ejercicio 4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se finaliza el ejercicio 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -222,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1728042971305</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Se finaliza el ejercicio 5">
+      <created>1728044220260</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1728044220260</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,6 +250,7 @@
     <MESSAGE value="Se finaliza el ejercicio 3." />
     <MESSAGE value="Se comienza el ejercicio 4 para determinar un número primo" />
     <MESSAGE value="Se finaliza el ejercicio 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se finaliza el ejercicio 4" />
+    <MESSAGE value="Se finaliza el ejercicio 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se finaliza el ejercicio 5" />
   </component>
 </project>
