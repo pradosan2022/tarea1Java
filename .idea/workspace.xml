@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se inicia el ejercicio 10 para determinar el factorial de un número" />
+    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se inicia el ejercicio 11 para generar los primeros 10 números de la secuencia de Fibonacci" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -321,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1728061446229</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Se inicia el ejercicio 11 para generar los primeros 10 números de la secuencia de Fibonacci">
+      <created>1728063454720</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1728063454720</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -354,6 +361,7 @@
     <MESSAGE value="Se inicia el ejercicio 9 para calcular la suma de los primeros N números naturales" />
     <MESSAGE value="Se finaliza el ejercicio 9" />
     <MESSAGE value="Se inicia el ejercicio 10 para determinar el factorial de un número" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se inicia el ejercicio 10 para determinar el factorial de un número" />
+    <MESSAGE value="Se inicia el ejercicio 11 para generar los primeros 10 números de la secuencia de Fibonacci" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se inicia el ejercicio 11 para generar los primeros 10 números de la secuencia de Fibonacci" />
   </component>
 </project>
