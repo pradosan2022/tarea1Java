@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se inicia el ejercicio 6 para conocer el promedio de tres números.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio6.java" afterDir="false" />
-    </list>
+    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se finaliza el ejercicio 6." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ejercicios/Ejercicio5.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -237,7 +237,21 @@
       <option name="project" value="LOCAL" />
       <updated>1728044460125</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Se inicia el ejercicio 6 para conocer el promedio de tres números.">
+      <created>1728046255182</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728046255182</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Se finaliza el ejercicio 6.">
+      <created>1728046480476</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1728046480476</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,6 +276,7 @@
     <MESSAGE value="Se finaliza el ejercicio 4" />
     <MESSAGE value="Se finaliza el ejercicio 5" />
     <MESSAGE value="Se inicia el ejercicio 6 para conocer el promedio de tres números." />
-    <option name="LAST_COMMIT_MESSAGE" value="Se inicia el ejercicio 6 para conocer el promedio de tres números." />
+    <MESSAGE value="Se finaliza el ejercicio 6." />
+    <option name="LAST_COMMIT_MESSAGE" value="Se finaliza el ejercicio 6." />
   </component>
 </project>
