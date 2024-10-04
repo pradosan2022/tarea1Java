@@ -8,6 +8,14 @@ public class Ejercicio10 {
           El factorial de un número se obtiene multiplicando todos los números desde 1 hasta el número dado.
         • Variables: a = 6.
          */
+        int a = 6;
+        int factorial = 1;
+        int n = 2;
 
+        while (n<=6){
+            factorial = factorial * n;
+            n = n + 1;
+        }
+        System.out.println("El factorial de "+a+" es: "+factorial);
     }
 }
