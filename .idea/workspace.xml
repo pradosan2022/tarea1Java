@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se finaliza el ejercicio 7">
+    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se finaliza el ejercicio 8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -274,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1728047275156</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Se finaliza el ejercicio 8">
+      <created>1728048237238</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1728048237238</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,6 +310,7 @@
     <MESSAGE value="Se finaliza el ejercicio 6" />
     <MESSAGE value="Se inicia el ejercicio 7 para realizar el cálculo del área de un triángulo" />
     <MESSAGE value="Se finaliza el ejercicio 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se finaliza el ejercicio 7" />
+    <MESSAGE value="Se finaliza el ejercicio 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se finaliza el ejercicio 8" />
   </component>
 </project>
