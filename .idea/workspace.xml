@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se finaliza el ejercicio 10">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio11.java" afterDir="false" />
-    </list>
+    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se finaliza el ejercicio 11" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -345,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1728063627683</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Se finaliza el ejercicio 11">
+      <created>1728072839477</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1728072839478</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -380,6 +384,7 @@
     <MESSAGE value="Se inicia el ejercicio 10 para determinar el factorial de un número" />
     <MESSAGE value="Se inicia el ejercicio 11 para generar los primeros 10 números de la secuencia de Fibonacci" />
     <MESSAGE value="Se finaliza el ejercicio 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se finaliza el ejercicio 10" />
+    <MESSAGE value="Se finaliza el ejercicio 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se finaliza el ejercicio 11" />
   </component>
 </project>
