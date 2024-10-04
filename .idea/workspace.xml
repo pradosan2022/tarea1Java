@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se inicia el ejercicio 11 para generar los primeros 10 números de la secuencia de Fibonacci" />
+    <list default="true" id="c29451be-5e22-4763-b692-c260a9dfc3b7" name="Changes" comment="Se finaliza el ejercicio 10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio11.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ejercicio10">
+  <component name="RunManager" selected="Application.Ejercicio11">
     <configuration name="Ejercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio10" />
       <module name="Ejercicio1Repaso_Sandra_Prado" />
@@ -54,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio6" />
+    <configuration name="Ejercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio11" />
       <module name="Ejercicio1Repaso_Sandra_Prado" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio11" />
         <item itemvalue="Application.Ejercicio10" />
         <item itemvalue="Application.Ejercicio9" />
         <item itemvalue="Application.Ejercicio8" />
         <item itemvalue="Application.Ejercicio7" />
-        <item itemvalue="Application.Ejercicio6" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +331,21 @@
       <option name="project" value="LOCAL" />
       <updated>1728063454720</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Se finaliza el ejercicio 10">
+      <created>1728063531870</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1728063531870</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Se finaliza el ejercicio 10">
+      <created>1728063627683</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1728063627683</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -362,6 +379,7 @@
     <MESSAGE value="Se finaliza el ejercicio 9" />
     <MESSAGE value="Se inicia el ejercicio 10 para determinar el factorial de un número" />
     <MESSAGE value="Se inicia el ejercicio 11 para generar los primeros 10 números de la secuencia de Fibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se inicia el ejercicio 11 para generar los primeros 10 números de la secuencia de Fibonacci" />
+    <MESSAGE value="Se finaliza el ejercicio 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se finaliza el ejercicio 10" />
   </component>
 </project>
